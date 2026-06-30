@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.p8
+*-credentials.json
+*credentials*.json
+*service-account*.json
+checkin-automation-*.json
