@@ -1,4 +1,4 @@
-# Oleg Kim - Project Knowledge Base
+# Project Knowledge Base
 
 This repository contains polished, public writeups for selected projects. The goal is to show product thinking, workflow design, security awareness, and implementation decisions without exposing private source code, credentials, or sensitive data.
 
